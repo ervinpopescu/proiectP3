@@ -1,0 +1,11 @@
+html {
+    left: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    background-color: #1e1e2e;
+}
+
+iframe {
+    border: 1px;
+}
